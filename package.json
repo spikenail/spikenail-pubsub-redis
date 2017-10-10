@@ -2,7 +2,7 @@
   "name": "spikenail-pubsub-redis",
   "version": "0.1.0",
   "description": "Redis PubSub for Spikenail framework",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spikenail/spikenail-pubsub-redis.git"
